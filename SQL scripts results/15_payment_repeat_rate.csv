@@ -1,0 +1,5 @@
+payment_type,total_unique_customers,repeat_customers,repeat_customer_rate_pct,avg_orders_per_customer
+credit_card,72027,2057,2.86,1.03
+boleto,18717,424,2.27,1.03
+voucher,3591,82,2.28,1.02
+debit_card,1470,15,1.02,1.01

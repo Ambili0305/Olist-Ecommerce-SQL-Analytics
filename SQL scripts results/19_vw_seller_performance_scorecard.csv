@@ -1,0 +1,5 @@
+seller_performance_tier,total_sellers,total_gmv,avg_gmv_per_seller,avg_tier_rating,avg_late_rate_pct
+"Standard Seller",2880,10011795.65,3476.32,4.79,9.57
+"Mid Tier (Solid Revenue)",35,2936081.15,83888.03,3.29,9.10
+"Top Tier (High Volume & High Rating)",12,1934238.60,161186.55,4.59,9.00
+"At Risk (Low Rating)",43,537658.35,12503.68,1.83,19.70

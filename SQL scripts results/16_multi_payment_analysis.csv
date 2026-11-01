@@ -1,0 +1,4 @@
+payment_behavior,total_orders,total_gmv,avg_order_value,total_voucher_subsidy,voucher_subsidy_pct_of_gmv
+"Single Payment Method",93602,14950758.93,159.73,107168.52,0.72
+"Multi-Payment (Mixed Methods)",2182,324595.48,148.76,185517.78,57.15
+"Multi-Payment (Same Method Split)",693,147107.36,212.28,50326.89,34.21

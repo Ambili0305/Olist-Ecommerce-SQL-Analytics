@@ -1,0 +1,5 @@
+payment_type,total_orders,total_payment_transactions,total_payment_value,percentage_of_total_gmv,avg_transaction_value
+credit_card,74304,74586,12101094.88,78.46,162.24
+boleto,19191,19191,2769932.58,17.96,144.33
+voucher,3679,5493,343013.19,2.22,62.45
+debit_card,1485,1486,208421.12,1.35,140.26

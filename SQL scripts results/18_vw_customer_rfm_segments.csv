@@ -1,0 +1,6 @@
+rfm_segment,total_customers,total_segment_revenue,avg_monetary_value,avg_recency_days,avg_frequency_orders
+"Lost / Churned (One-Time)",53567,8485598.32,158.41,338.9,1.00
+"Recent One-Time Buyers",36989,6072506.24,164.17,92.0,1.00
+"At-Risk (High Value Repeat)",1564,467669.66,299.02,321.9,2.08
+Champions,616,198359.46,322.01,45.6,2.16
+"Loyal Customers",621,198328.09,319.37,135.5,2.14
